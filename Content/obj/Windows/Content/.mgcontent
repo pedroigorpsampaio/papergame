@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/DungeonCrawl_ProjectUtumnoTileset.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/tiles.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/FPSFont.spritefont</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/chars.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/1.mp3</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/2.mp3</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/3.mp3</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/cursorsword.gif</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/cursors.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/effects.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/hit_1.wav</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Destruction_1.wav</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/item_1.wav</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Enemies_1.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Enemies_2.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Enemies_3.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/items.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/HUDFont.spritefont</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/tree.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/tileset.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/hud.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Critical_Hit_1.wav</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Hit_Chest.mp3</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Hit_Spike.mp3</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/bag.png</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Monster_Growl_1.mp3</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Raven_1.mp3</File>
+    <File>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/baffasheet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

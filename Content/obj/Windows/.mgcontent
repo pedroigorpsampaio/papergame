@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/DungeonCrawl_ProjectUtumnoTileset.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/tiles.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/FPSFont.spritefont</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/chars.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/1.mp3</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/2.mp3</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/3.mp3</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/cursorsword.gif</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/cursors.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/effects.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/hit_1.wav</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Destruction_1.wav</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/item_1.wav</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Enemies_1.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Enemies_2.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Enemies_3.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/items.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/HUDFont.spritefont</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/tree.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/tileset.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/hud.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Critical_Hit_1.wav</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Hit_Chest.mp3</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Hit_Spike.mp3</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/bag.png</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Monster_Growl_1.mp3</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/Raven_1.mp3</File>
+    <File>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/baffasheet.png</File>
+  </SourceFiles>
+</SourceFileCollection>

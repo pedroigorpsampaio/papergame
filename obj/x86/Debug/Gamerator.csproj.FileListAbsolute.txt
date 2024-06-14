@@ -1,0 +1,231 @@
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\Gamerator.exe
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\Gamerator.pdb
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\obj\x86\Debug\Gamerator.csprojResolveAssemblyReference.cache
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\obj\x86\Debug\Gamerator.exe
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\obj\x86\Debug\Gamerator.pdb
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\Content\DungeonCrawl_ProjectUtumnoTileset.xnb
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\Content\earth.xnb
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\Content\shuttle.xnb
+c:\users\psampaio\documents\visual studio 2015\Projects\Gamerator\Gamerator\bin\Windows\x86\Debug\Content\stars.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\obj\x86\Debug\Gamerator.exe
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\obj\x86\Debug\Gamerator.pdb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\DungeonCrawl_ProjectUtumnoTileset.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Gamerator.exe
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Gamerator.pdb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\obj\x86\Debug\Gamerator.csprojResolveAssemblyReference.cache
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\tiles.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\FPSFont.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\chars.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\1.wma
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\1.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\2.wma
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\2.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\3.wma
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\3.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\cursorsword.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\cursors.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\effects.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\hit_1.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Destruction_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\obj\x86\Debug\Gamerator.exe
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\obj\x86\Debug\Gamerator.pdb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\1.wma
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\2.wma
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\3.wma
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\2.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\3.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\chars.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\cursors.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\cursorsword.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Destruction_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\DungeonCrawl_ProjectUtumnoTileset.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\effects.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\FPSFont.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\hit_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\tiles.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Gamerator.exe
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Gamerator.pdb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\obj\x86\Debug\Gamerator.csprojResolveAssemblyReference.cache
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\item_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\item_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Enemies_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Enemies_2.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Enemies_3.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Enemies_1.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Enemies_2.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Enemies_3.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\items.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\HUDFont.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\tileset.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\tree.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\hud.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Critical_Hit_1.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Hit_Chest.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Hit_Spike.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\bag.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Monster_Growl_1.wma
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Monster_Growl_1.xnb
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Raven_1.wma
+C:\Users\MICRO\Documents\Visual Studio 2015\Projects\Gamerator\papergame\bin\Windows\x86\Debug\Content\Raven_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Monster_Growl_1.wma
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Raven_1.wma
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\bag.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Critical_Hit_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Hit_Chest.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Hit_Spike.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\hud.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\HUDFont.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\items.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Monster_Growl_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\Raven_1.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\tileset.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\tree.xnb
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Gamerator.exe.config
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\psampaio\Documents\Visual Studio 2015\Projects\papergame\papergame\bin\Windows\x86\Debug\Content\baffa.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Gamerator.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\obj\x86\Debug\Gamerator.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\obj\x86\Debug\Gamerator.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\1.wma
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\2.wma
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\3.wma
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Monster_Growl_1.wma
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Raven_1.wma
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\2.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\3.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\bag.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\chars.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Critical_Hit_1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\cursors.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\cursorsword.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Destruction_1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\DungeonCrawl_ProjectUtumnoTileset.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\effects.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Enemies_1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Enemies_2.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Enemies_3.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\FPSFont.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\hit_1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Hit_Chest.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Hit_Spike.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\hud.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\HUDFont.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\items.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\item_1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Monster_Growl_1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\Raven_1.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\tiles.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\tileset.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\tree.xnb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Gamerator.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Gamerator.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\obj\x86\Debug\Gamerator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\papergame\bin\Windows\x86\Debug\Content\baffasheet.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\2.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\3.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\baffasheet.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\bag.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\chars.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Critical_Hit_1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\cursors.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\cursorsword.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Destruction_1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\DungeonCrawl_ProjectUtumnoTileset.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\effects.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Enemies_1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Enemies_2.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Enemies_3.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\FPSFont.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\hit_1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Hit_Chest.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Hit_Spike.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\hud.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\HUDFont.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\items.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\item_1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Monster_Growl_1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\Raven_1.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\tiles.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\tileset.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Content\tree.xnb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Gamerator.exe.config
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Gamerator.exe
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\Gamerator.pdb
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\obj\x86\Debug\Gamerator.csprojAssemblyReference.cache
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\obj\x86\Debug\Gamerator.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\obj\x86\Debug\Gamerator.csproj.CopyComplete
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\obj\x86\Debug\Gamerator.exe
+C:\Users\MICRO\Documents\CCP\port\KikoSampaio-papergame-0a62e7997b85\obj\x86\Debug\Gamerator.pdb

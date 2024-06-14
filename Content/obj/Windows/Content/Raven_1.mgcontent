@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/Raven_1.mp3</SourceFile>
+  <SourceTime>2017-03-30T14:29:56-03:00</SourceTime>
+  <DestFile>C:/Users/MICRO/Documents/CCP/port/KikoSampaio-papergame-0a62e7997b85/Content/bin/Windows/Content/Raven_1.xnb</DestFile>
+  <DestTime>2020-10-08T19:15:58.5468742-03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-23T18:55:52-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T18:55:52-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

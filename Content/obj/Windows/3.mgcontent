@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/3.mp3</SourceFile>
+  <SourceTime>2017-03-30T09:26:59.8368053-03:00</SourceTime>
+  <DestFile>C:/Users/User/Documents/Visual Studio 2015/Projects/papergame/Content/bin/Windows/3.xnb</DestFile>
+  <DestTime>2017-03-30T09:47:10.1393772-03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T03:36:08-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T03:36:08-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
